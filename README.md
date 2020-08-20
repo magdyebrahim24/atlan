@@ -1,5 +1,5 @@
 # atlan App
-- ###   An App For Broken Cars On Road using flutter and firebase .
+- ###   An App For Broken Cars On Road using Google Maps.
 
 ![App Gif ](/img/atlan-gif.gif)
 
